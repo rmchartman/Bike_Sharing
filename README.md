@@ -11,7 +11,7 @@ Data from August of 2019 was used to show the following:
 Please review the interactive dashboard linked below to further explore the NYC Citibike Data from August 2019
 [Link to Citibike Analysis Dashboard](https://public.tableau.com/profile/renata2565#!/vizhome/NYCCitibike_16105567886920/NYCCitibike?publish=yes)
 
-## Results
+## Results - Matching the Dashboard Sections
 ### Duration of Citibike Checkout for All Users
  - The majority of users rent bikes for 3-6 hours
 ### Number of Bikes per Hour per Weekday
